@@ -1,7 +1,7 @@
 version: 1
 project:
   id: ubcgif-2024-heagy-ualberta
-  title: "Geophysical electromagnetics: imaging the subsurface from shallow to deep"
+  title: 'Geophysical electromagnetics: imaging the subsurface from shallow to deep'
   description: Colloquium for the Department of Physics at the University of Alberta
   authors:
     - name: Lindsey J. Heagy
@@ -31,6 +31,11 @@ project:
   #   - Numerical modelling
   #   - Electrical properties
   #   - Magnetic properties
+  downloads:
+    - file: ./presentation/Heagy-2024-Ualberta.pdf
+      title: Download PDF
+    - file: ./presentation/Heagy-2024-Ualberta.pptx
+      title: Download Slides
 site:
   template: article-theme
   actions:
