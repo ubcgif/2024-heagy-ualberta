@@ -11,7 +11,7 @@ project:
       affiliation:
         id: ubc
         name: Department of Earth, Ocean and Atmospheric Sciences, University of British Columbia, Vancouver, British Columbia
-  banner: banner.png
+  # banner: banner.png
   thumbnail: thumbnail.png
   subject: Electromagnetics
   venue:
