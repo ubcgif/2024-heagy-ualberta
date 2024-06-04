@@ -1,6 +1,6 @@
 # Geophysical electromagnetics: imaging the subsurface from shallow to deep
 
-_Lindsey J. Heagy, Douglas W. Oldenburg, Fernando Pérez and Laurens Beran_
+_Lindsey J. Heagy and Douglas W. Oldenburg_
 
 ![thumbnail](./abstract/thumbnail.png)
 
