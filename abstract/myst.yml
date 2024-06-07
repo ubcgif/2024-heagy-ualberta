@@ -33,9 +33,9 @@ project:
   #   - Magnetic properties
   downloads:
     - file: ./presentation/Heagy-2024-Ualberta.pdf
-      title: Download PDF
-    - file: ./presentation/Heagy-2024-Ualberta.pptx
       title: Download Slides
+    # - file: ./presentation/Heagy-2024-Ualberta.pptx
+    #   title: Download Slides
 site:
   template: article-theme
   actions:
