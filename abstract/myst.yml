@@ -30,9 +30,9 @@ project:
   #   - Numerical modelling
   #   - Electrical properties
   #   - Magnetic properties
-  downloads:
-    - file: ./presentation/Heagy-2024-Ualberta.pdf
-      title: Download PDF
+  # downloads:
+  #   - file: ./presentation/Heagy-2024-Ualberta.pdf
+  #     title: Download PDF
     # - file: ./presentation/Heagy-2024-Ualberta.pptx
     #   title: Download Slides
 site:
