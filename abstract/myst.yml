@@ -24,12 +24,12 @@ project:
     EM: electromagnetics
   # github:
   # bibliography: []
-  # keywords:
-  #   - Controlled source electromagnetics (CSEM)
-  #   - Downhole methods
-  #   - Numerical modelling
-  #   - Electrical properties
-  #   - Magnetic properties
+  keywords:
+    - Controlled source electromagnetics (CSEM)
+    - Downhole methods
+    - Numerical modelling
+    - Electrical properties
+    - Magnetic properties
   # downloads:
   #   - file: ./presentation/Heagy-2024-Ualberta.pdf
   #     title: Download PDF
