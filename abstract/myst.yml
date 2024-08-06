@@ -38,7 +38,7 @@ project:
 site:
   template: article-theme
   actions:
-    - title: slides
+    - title: Slides
       url: presentation/Heagy-2024-Ualberta.pdf
       static: true
   domains: []
