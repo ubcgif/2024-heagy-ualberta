@@ -19,27 +19,26 @@ project:
     url: https://www.ualberta.ca/physics/index.html
   license: CC-BY-4.0
   open_access: true
-  # doi: https://3dem-7.geosci.xyz/abstracts/Heagy-2023-3DEM-7.pdf
   abbreviations:
     DC: direct current
     EM: electromagnetics
   # github:
   # bibliography: []
-  # keywords:
-  #   - Controlled source electromagnetics (CSEM)
-  #   - Downhole methods
-  #   - Numerical modelling
-  #   - Electrical properties
-  #   - Magnetic properties
-  downloads:
-    - file: ./presentation/Heagy-2024-Ualberta.pdf
-      title: Download PDF
-    - file: ./presentation/Heagy-2024-Ualberta.pptx
-      title: Download Slides
+  keywords:
+    - Controlled source electromagnetics (CSEM)
+    - Downhole methods
+    - Numerical modelling
+    - Electrical properties
+    - Magnetic properties
+  # downloads:
+  #   - file: ./presentation/Heagy-2024-Ualberta.pdf
+  #     title: Download PDF
+    # - file: ./presentation/Heagy-2024-Ualberta.pptx
+    #   title: Download Slides
 site:
   template: article-theme
   actions:
-    - title: slides
+    - title: Slides
       url: presentation/Heagy-2024-Ualberta.pdf
       static: true
-  domains: []
+  # domains: []
