@@ -12,6 +12,7 @@ project:
         id: ubc
         name: Department of Earth, Ocean and Atmospheric Sciences, University of British Columbia, Vancouver, British Columbia
   # banner: banner.png
+  date: 2024/03/22 # date of publication
   thumbnail: thumbnail.png
   subject: Electromagnetics
   venue:
